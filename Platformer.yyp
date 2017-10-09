@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1a5b68c0-8c33-42b7-9625-29b8ed1c8c9c",
+            "Value": {
+                "id": "6385a8be-d32f-4568-a5ac-d0d80d00e9b1",
+                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3160e98b-62fe-40d5-8307-7059e2349134",
             "Value": {
                 "id": "7b2f4482-90c8-4ae9-b0e7-b8073788ef91",
@@ -71,6 +79,14 @@
             }
         },
         {
+            "Key": "5d3dfd5b-5372-4878-82d1-507958db757a",
+            "Value": {
+                "id": "dd8bed7f-7b45-43d3-88bb-252d15f99be3",
+                "resourcePath": "sprites\\sPlayerA\\sPlayerA.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "66c938bd-9e75-42d7-9eff-791e4c31a103",
             "Value": {
                 "id": "5dddaae7-ab37-4e16-9c87-36008eaadbaf",
@@ -92,6 +108,14 @@
                 "id": "bbb23c4b-170c-4282-8b01-35ba7f89d49e",
                 "resourcePath": "views\\6f2effa1-bfb3-4352-ade6-66cd352a2d09.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a47b44e-ec92-42af-9b62-f793c334c319",
+            "Value": {
+                "id": "79776f49-9c2b-4e58-846b-631d2659f94f",
+                "resourcePath": "objects\\oGun\\oGun.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -135,6 +159,14 @@
             }
         },
         {
+            "Key": "b264a4f9-0f30-463e-af83-136f2a561d46",
+            "Value": {
+                "id": "513e487d-e0cc-4670-b1dd-2a463ee402b2",
+                "resourcePath": "sprites\\sPlayerR\\sPlayerR.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "be73f0ac-f32e-4ab0-bb37-e00b244b5719",
             "Value": {
                 "id": "b865839a-b96c-4844-9442-02aacd20a2c5",
@@ -159,11 +191,27 @@
             }
         },
         {
+            "Key": "ca8acdc4-20d8-474f-a183-8fab22bcaa62",
+            "Value": {
+                "id": "84f8f1c4-2f3c-455a-af1b-3c777d12554d",
+                "resourcePath": "sprites\\sGun\\sGun.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "5b582ede-64bc-4960-865e-476469dda2b8",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d3fc3e56-f64d-4f8b-bc97-9469d28a8ccf",
+            "Value": {
+                "id": "6e77c1b6-a4d7-4afe-bf70-1afd25f2674d",
+                "resourcePath": "objects\\oBullet\\oBullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
